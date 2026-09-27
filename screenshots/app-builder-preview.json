@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "LiveLine",
+      "hasCanvas": false,
+      "bodyTextLen": 347,
+      "bodyTextHash": "bfec4dd1a96dce944588bbb772fe387fc68f6fcd5145691e6936ee0d693b4dd9",
+      "bodyTextPrefix": "LIVELINE Set up your leagues Type your own username. We don’t sa",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "LiveLine",
+      "hasCanvas": false,
+      "bodyTextLen": 347,
+      "bodyTextHash": "bfec4dd1a96dce944588bbb772fe387fc68f6fcd5145691e6936ee0d693b4dd9",
+      "bodyTextPrefix": "LIVELINE Set up your leagues Type your own username. We don’t sa",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
